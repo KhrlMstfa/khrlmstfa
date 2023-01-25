@@ -69,8 +69,8 @@
 
 
 
-* Credit: [Abdul Mufid](https://github.com/eabdalmufid)
-* Last Edited on: 05/03/2022
+* Credit: [Rull](https://github.com/khrlmstfa)
+* Last Edited on: 25/01/2023
 
 
 
