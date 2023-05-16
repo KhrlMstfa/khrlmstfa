@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi , I'm KhrlMstfa! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi , I'm KhrlMstfa! <img src="https://telegra.ph/file/e5ae04a70cdf3a7763c79.jpg" width="35"></h1>
 
 ![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
 
@@ -9,7 +9,7 @@
 <hr/>
 <h4 align="center">I'm an amateur and Noob.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=eabdalmufid8&label=Profile%20views&color=0e75b6&style=plastic" alt="eabdalmufid" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=KhrlMstfa&label=Profile%20views&color=0e75b6&style=plastic" alt="khrlmstfa" /> </p>
 
 
 
